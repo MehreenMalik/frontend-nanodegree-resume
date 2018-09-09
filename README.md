@@ -15,8 +15,8 @@ Within helper.js, you’ll find a large collection of strings containing snippet
 
 Each string has a title that describes how it should be used. For instance, `HTMLworkStart` should be the first `<div>` in the Work section of the resume. `HTMLschoolLocation` contains a `%data%` placeholder which should be replaced with the location of one of your schools.
 
-### Your process:
-The resume has four distinct sections: work, education, projects and a header with biographical information. You’ll need to:
+### My resume:
+The resume has four distinct sections: work, education, projects and a header with biographical information.
 
 1. ResumeBuilder contains four JavaScript objects, each one representing a different resume section. 
 
